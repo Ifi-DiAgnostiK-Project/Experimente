@@ -4,7 +4,7 @@ email: volker.goehler@informatik.tu-freiberg.de
 language: de
 narrator: German Female
 version: 0.0.3
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Layoutkurs.md
 date: 2025-12-04
 comment: Kurs zum Sammeln von Layout Elementen
 title: Layout Elemente Sammlung

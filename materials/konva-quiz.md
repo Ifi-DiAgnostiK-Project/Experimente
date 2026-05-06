@@ -3,7 +3,7 @@ author: Niklas Werner
 version: 0.0.5
 script: https://cdn.jsdelivr.net/npm/konva@latest/konva.min.js
 comment: This is a test for the Konva library in LiaScript, demonstrating how to create shapes and measure their dimensions using arrows and labels.
-edit: true
+edit:    https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/konva-quiz.md
 language: de
 
 logo: https://konvajs.org/assets/users/windoor.jpg

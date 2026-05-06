@@ -4,7 +4,7 @@ email:    volker.goehler@informatik.tu-freiberg.de
 language: de
 narrator: German Female
 version: 0.0.9
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Saege_Test.md
 date: 2025-06-24
 logo: ../assets/img/Logo_234px.png
 comment: test course to test out image maps and svg

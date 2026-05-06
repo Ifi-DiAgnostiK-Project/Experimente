@@ -2,7 +2,7 @@
 author: Volker Göhler
 email: volker.goehler@informatik.tu-freiberg.de
 version: 0.0.21
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/test_course_for_action.md
 date: 2025-05-20
 language: de
 logo: ../assets/img/Logo_234px.png

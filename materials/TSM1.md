@@ -10,7 +10,7 @@ language: de
 
 narrator: Deutsch Male
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/TSM1.md
 date: 2025-06-27
 
 comment:  TSM 1

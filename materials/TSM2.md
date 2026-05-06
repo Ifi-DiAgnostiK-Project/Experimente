@@ -11,7 +11,7 @@ language: de
 narrator: Deutsch Female
 
 comment:  TSM 2
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/TSM2.md
 date: 2025-06-30
 
 tags:  TSM,
