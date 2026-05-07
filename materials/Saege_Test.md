@@ -1,23 +1,28 @@
 <!--
-author: Volker Göhler
-email:    volker.goehler@informatik.tu-freiberg.de
-language: de
-narrator: German Female
-version: 0.0.9
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Saege_Test.md
-date: 2025-06-24
-logo: ../assets/img/Logo_234px.png
-comment: test course to test out image maps and svg
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+date:      2025-06-24
+version:   0.0.9
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+language:  de
+narrator:  German Female
 
-title: Sägenbilder zum Anklicken
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Saege_Test.md
 
-tags: Experimente
+logo:      ../assets/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
+
+comment:   test course to test out image maps and svg
+
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+
+title:     Sägenbilder zum Anklicken
+
+tags:      Experimente
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
@@ -35,8 +40,6 @@ tags: Experimente
     }
 }
 @end
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
 -->
 # Image Maps:
 

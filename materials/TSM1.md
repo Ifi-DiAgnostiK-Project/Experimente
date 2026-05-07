@@ -1,34 +1,30 @@
 <!--
+author:    Hilke Domsch, Volker Göhler
+email:     hilke.domsch@gkz-ev.de
+date:      2025-06-27
+version:   0.0.5
 
-author:   Hilke Domsch, Volker Göhler
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/TSM1.md
 
-version:  0.0.5
+comment:   TSM 1
 
-language: de
+tags:      TSM,
+           Experimente
 
-narrator: Deutsch Male
-
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/TSM1.md
-date: 2025-06-27
-
-comment:  TSM 1
-
-tags: TSM,
-      Experimente
-
-logo: ../assets/img/Logo_234px.png
-icon: ../assets/img/Logo_234px.png
+logo:      ../assets/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
 
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
@@ -46,7 +42,6 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_Image
     }
 }
 @end
-
 -->
 
 # Verständnisfragen TSM 1 Grundlehrgang

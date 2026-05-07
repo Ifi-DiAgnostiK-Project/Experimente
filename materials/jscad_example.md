@@ -1,14 +1,13 @@
 <!--
+author:    Niklas Werner
+version:   0.0.4
+comment:   This is a JSCAD example
+language:  de
 
-author: Niklas Werner
-version: 0.0.4
-comment: This is a JSCAD example
-language: de
-edit:    https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/jscad_example.md
-import:  https://raw.githubusercontent.com/LiaTemplates/jscad/0.0.1/README.md
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/jscad_example.md
+import:    https://raw.githubusercontent.com/LiaTemplates/jscad/0.0.1/README.md
 
-tags:    experimente
-
+tags:      experimente
 -->
 
 # JSCAD Example

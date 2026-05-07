@@ -1,20 +1,22 @@
 <!--
-author: Volker Göhler
-email: volker.goehler@informatik.tu-freiberg.de
-language: de
-narrator: German Female
-version: 0.0.3
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Layoutkurs.md
-date: 2025-12-04
-comment: Kurs zum Sammeln von Layout Elementen
-title: Layout Elemente Sammlung
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+version:   0.0.3
+date:      2025-12-04
 
-tags: Wissensspeicher
+language:  de
+narrator:  German Female
 
-link: ./style.css
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/Layoutkurs.md
+comment:   Kurs zum Sammeln von Layout Elementen
+title:     Layout Elemente Sammlung
 
-icon: ../assets/img/Logo_234px.png
-logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
+tags:      Wissensspeicher
+
+link:      ./style.css
+
+icon:      ../assets/img/Logo_234px.png
+logo:      https://upload.wikimedia.org/wikipedia/commons/e/ef/Programming_code.jpg
 attribute: title image -- Martin Vorel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
@@ -23,7 +25,6 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragA
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
         https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-
 -->
 
 # LiaScript Layout Elemente

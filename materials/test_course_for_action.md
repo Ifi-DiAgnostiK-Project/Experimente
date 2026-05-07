@@ -1,25 +1,28 @@
 <!--
-author: Volker Göhler
-email: volker.goehler@informatik.tu-freiberg.de
-version: 0.0.21
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/test_course_for_action.md
-date: 2025-05-20
-language: de
-logo: ../assets/img/Logo_234px.png
-comment: Test Course for the action release system
+author:    Volker Göhler
+email:     volker.goehler@informatik.tu-freiberg.de
+version:   0.0.21
+date:      2025-05-20
 
-title : Test Course for Action Release System
+language:  de
 
-tags: Experimente
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/test_course_for_action.md
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+logo:      ../assets/img/Logo_234px.png
+icon:      ../assets/img/Logo_234px.png
+
+comment:   Test Course for the action release system
+title:     Test Course for Action Release System
+tags:      Experimente
+
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
 
 @style
 .flex-container {
-    display: flex;[](https://liascript.github.io/LiveEditor/liascript/index.html?#5)
+    display: flex;
     flex-wrap: wrap; /* Allows the items to wrap as needed */
     align-items: stretch;
     gap: 20px; /* Adds both horizontal and vertical spacing between items */
@@ -37,7 +40,6 @@ import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/
     }
 }
 @end
-
 -->
 
 # Test Course in LiaScript

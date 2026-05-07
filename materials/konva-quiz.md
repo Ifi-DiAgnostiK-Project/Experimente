@@ -1,18 +1,21 @@
 <!--
-author: Niklas Werner
-version: 0.0.5
-script: https://cdn.jsdelivr.net/npm/konva@latest/konva.min.js
-comment: This is a test for the Konva library in LiaScript, demonstrating how to create shapes and measure their dimensions using arrows and labels.
-edit:    https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/konva-quiz.md
-language: de
+author:    Niklas Werner
+version:   0.0.5
+comment:   This is a test for the Konva library in LiaScript, demonstrating how
+           to create shapes and measure their dimensions using arrows and labels.
 
-logo: https://konvajs.org/assets/users/windoor.jpg
-icon: https://konvajs.org/img/icon.png
+language:  de
 
-title: Flächenberechnungs Quiz mit Konva
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Experimente/blob/main/materials/konva-quiz.md
 
-tags: experimente,
-      konva
+logo:      https://konvajs.org/assets/users/windoor.jpg
+icon:      https://konvajs.org/img/icon.png
+
+title:     Flächenberechnungs Quiz mit Konva
+script:    https://cdn.jsdelivr.net/npm/konva@latest/konva.min.js
+
+tags:      experimente,
+           konva
 
 @Konva
 <div id='container-@0'></div>
@@ -57,7 +60,6 @@ tags: experimente,
     }
 }
 @end
-
 -->
 
 # Konva Quiz
